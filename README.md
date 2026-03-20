@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Kayden!</h1>
+<h3 align="center">
+  I'm a software developer currently studying full-stack development 💻
+</h3>
 
-<!--
-**kaydendua/kaydendua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Some of my interests include game development, video editing and anime
 
-Here are some ideas to get you started:
+- I'm currently exploring various web dev frameworks, as well as graphics programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>I've worked on:</h3>
+<h4>Eye Can Drive: A 3D driving game where you control the car with your face!</h4>
+<p>I used Python OpenCV for face detection and Unity Engine to create the game.</p>
+
+<h4>Voyager: A web extension to help students maintain a healthy balance of work and rest</h4>
