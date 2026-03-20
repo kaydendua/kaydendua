@@ -10,7 +10,7 @@
 <h3>I've worked on:</h3>
 <h4>Eye Can Drive: A 3D driving game where you control the car with your face!</h4>
 <a href="https://github.com/np-overflow/openhouse-ecd-cv">
-  <img src="ecd.png" width=500px height=500px>
+  <img src="eyecandrive.png" width=40% height=auto>
 </a>
 <p>I used Python OpenCV for face detection and Unity Engine to create the game.</p>
 
