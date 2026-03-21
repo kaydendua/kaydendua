@@ -15,3 +15,9 @@
 <p>I used Python OpenCV for face detection and Unity Engine to create the game.</p>
 
 <h4>Voyager: A web extension to help students maintain a healthy balance of work and rest</h4>
+
+<h3>Currently developing:</h3>
+
+- StreetCred: A full-stack credential issuance platform that enables bulk distribution of badges with public shareable pages
+
+- My own personal website!
